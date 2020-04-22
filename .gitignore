@@ -1,0 +1,6 @@
+__pycache__
+graphs
+*.tsv
+*.dot
+*.png
+*.json
